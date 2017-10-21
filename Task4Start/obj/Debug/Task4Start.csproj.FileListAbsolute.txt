@@ -1,0 +1,81 @@
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\roslyn\csc.exe
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\roslyn\vbc.exe
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\roslyn\VBCSCompiler.exe
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\Task4Start.dll.config
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\Task4Start.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\Task4Start.pdb
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\Antlr3.Runtime.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\Newtonsoft.Json.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.Helpers.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.Mvc.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.Optimization.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.Razor.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.WebPages.Deployment.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.WebPages.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.WebPages.Razor.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\WebGrease.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.Helpers.xml
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.Mvc.xml
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.Optimization.xml
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.Razor.xml
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.WebPages.xml
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.WebPages.Deployment.xml
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\System.Web.WebPages.Razor.xml
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\Antlr3.Runtime.pdb
+C:\Users\u0000770\Desktop\ICA\Task4Start\bin\Newtonsoft.Json.xml
+C:\Users\u0000770\Desktop\ICA\Task4Start\obj\Debug\Task4Start.csprojResolveAssemblyReference.cache
+C:\Users\u0000770\Desktop\ICA\Task4Start\obj\Debug\Task4Start.dll
+C:\Users\u0000770\Desktop\ICA\Task4Start\obj\Debug\Task4Start.pdb
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\roslyn\csc.exe
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\roslyn\vbc.exe
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\roslyn\VBCSCompiler.exe
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\Task4Start.dll.config
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\Task4Start.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\Task4Start.pdb
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\Antlr3.Runtime.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\Newtonsoft.Json.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.Helpers.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.Mvc.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.Optimization.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.Razor.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.WebPages.Deployment.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.WebPages.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.WebPages.Razor.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\WebGrease.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.Helpers.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.Mvc.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.Optimization.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.Razor.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.WebPages.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.WebPages.Deployment.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\System.Web.WebPages.Razor.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\Antlr3.Runtime.pdb
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\bin\Newtonsoft.Json.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\obj\Debug\Task4Start.csprojResolveAssemblyReference.cache
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\obj\Debug\Task4Start.csproj.CoreCompileInputs.cache
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\obj\Debug\Task4Start.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\obj\Debug\Task4Start.pdb

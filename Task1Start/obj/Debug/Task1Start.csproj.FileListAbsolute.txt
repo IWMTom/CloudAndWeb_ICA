@@ -1,0 +1,282 @@
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\csc.exe
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\vbc.exe
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\VBCSCompiler.exe
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Task1Start.dll.config
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Task1Start.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Task1Start.pdb
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Antlr3.Runtime.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\EntityFramework.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\EntityFramework.SqlServer.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\HebbraCoDbfModel.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Newtonsoft.Json.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Helpers.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Mvc.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Optimization.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Razor.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.WebPages.Deployment.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.WebPages.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.WebPages.Razor.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\WebGrease.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\HebbraCoDbfModel.pdb
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\EntityFramework.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\EntityFramework.SqlServer.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Helpers.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Mvc.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Optimization.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Razor.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.WebPages.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.WebPages.Deployment.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.WebPages.Razor.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Antlr3.Runtime.pdb
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Newtonsoft.Json.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\obj\Debug\Task1Start.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\obj\Debug\Task1Start.pdb
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\csc.exe
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\vbc.exe
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\VBCSCompiler.exe
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Task1Start.dll.config
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Task1Start.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Task1Start.pdb
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Antlr3.Runtime.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\EntityFramework.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\EntityFramework.SqlServer.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\HebbraCoDbfModel.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Newtonsoft.Json.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Helpers.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Mvc.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Optimization.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Razor.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.WebPages.Deployment.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.WebPages.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.WebPages.Razor.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\WebGrease.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\HebbraCoDbfModel.pdb
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\EntityFramework.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\EntityFramework.SqlServer.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Helpers.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Mvc.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Optimization.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Razor.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.WebPages.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.WebPages.Deployment.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.WebPages.Razor.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Antlr3.Runtime.pdb
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Newtonsoft.Json.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+C:\Users\u0000770\Desktop\ICA\Task1Start\obj\Debug\Task1Start.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\obj\Debug\Task1Start.pdb
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\roslyn\csc.exe
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\roslyn\vbc.exe
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\roslyn\VBCSCompiler.exe
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\Task1Start.dll.config
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\Task1Start.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\Task1Start.pdb
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\Antlr3.Runtime.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\EntityFramework.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\EntityFramework.SqlServer.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\HebbraCoDbfModel.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\Newtonsoft.Json.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.Helpers.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.Mvc.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.Optimization.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.Razor.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.WebPages.Deployment.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.WebPages.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.WebPages.Razor.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\WebGrease.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\HebbraCoDbfModel.pdb
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\HebbraCoDbfModel.dll.config
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\EntityFramework.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\EntityFramework.SqlServer.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.Helpers.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.Mvc.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.Optimization.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.Razor.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.WebPages.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.WebPages.Deployment.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\System.Web.WebPages.Razor.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\Antlr3.Runtime.pdb
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\bin\Newtonsoft.Json.xml
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\obj\Debug\Task1Start.csproj.CoreCompileInputs.cache
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\obj\Debug\Task1Start.dll
+C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task1Start\obj\Debug\Task1Start.pdb
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\csc.exe
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\vbc.exe
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\VBCSCompiler.exe
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Task1Start.dll.config
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Task1Start.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Task1Start.pdb
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Antlr3.Runtime.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\EntityFramework.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\EntityFramework.SqlServer.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\HebbraCoDbfModel.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Newtonsoft.Json.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Helpers.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Mvc.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Optimization.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Razor.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.Deployment.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.Razor.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\WebGrease.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\HebbraCoDbfModel.pdb
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\EntityFramework.xml
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\EntityFramework.SqlServer.xml
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Helpers.xml
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Mvc.xml
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Optimization.xml
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Razor.xml
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.xml
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.Deployment.xml
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.Razor.xml
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Antlr3.Runtime.pdb
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Newtonsoft.Json.xml
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\obj\Debug\Task1Start.dll
+\\HOMEBOX\tom\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\obj\Debug\Task1Start.pdb
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\csc.exe
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\vbc.exe
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\VBCSCompiler.exe
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Task1Start.dll.config
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Task1Start.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Task1Start.pdb
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Antlr3.Runtime.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\EntityFramework.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\EntityFramework.SqlServer.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\HebbraCoDbfModel.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Newtonsoft.Json.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Helpers.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Mvc.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Optimization.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Razor.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.Deployment.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.Razor.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\WebGrease.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\HebbraCoDbfModel.pdb
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\HebbraCoDbfModel.dll.config
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\EntityFramework.xml
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\EntityFramework.SqlServer.xml
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Helpers.xml
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Mvc.xml
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Optimization.xml
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Razor.xml
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.xml
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.Deployment.xml
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.Razor.xml
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Antlr3.Runtime.pdb
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\bin\Newtonsoft.Json.xml
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\obj\Debug\Task1Start.csproj.CoreCompileInputs.cache
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\obj\Debug\Task1Start.dll
+H:\UNIVERSITY\C&W_ICA\C&WICAStart\Task1Start\obj\Debug\Task1Start.pdb
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\csc.exe
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\vbc.exe
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\Task1Start.dll.config
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\Task1Start.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\Task1Start.pdb
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\Antlr3.Runtime.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\EntityFramework.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\EntityFramework.SqlServer.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\HebbraCoDbfModel.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\Newtonsoft.Json.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Helpers.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Mvc.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Optimization.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Razor.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\WebGrease.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\HebbraCoDbfModel.pdb
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\HebbraCoDbfModel.dll.config
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\EntityFramework.xml
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\EntityFramework.SqlServer.xml
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Helpers.xml
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Mvc.xml
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Optimization.xml
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.Razor.xml
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.xml
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\Antlr3.Runtime.pdb
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\bin\Newtonsoft.Json.xml
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\obj\Debug\Task1Start.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\obj\Debug\Task1Start.dll
+C:\Users\Tom\Desktop\C&W_ICA\C&WICAStart\Task1Start\obj\Debug\Task1Start.pdb
