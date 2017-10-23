@@ -79,3 +79,44 @@ C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\o
 C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\obj\Debug\Task4Start.csproj.CoreCompileInputs.cache
 C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\obj\Debug\Task4Start.dll
 C:\Users\u0000770\Documents\Visual Studio 2017\Projects\C&WICAStart\Task4Start\obj\Debug\Task4Start.pdb
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\roslyn\csc.exe
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\roslyn\vbc.exe
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\Task4Start.dll.config
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\Task4Start.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\Task4Start.pdb
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\Antlr3.Runtime.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\Newtonsoft.Json.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.Helpers.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.Mvc.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.Optimization.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.Razor.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.WebPages.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\WebGrease.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.Helpers.xml
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.Mvc.xml
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.Optimization.xml
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.Razor.xml
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.WebPages.xml
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\Antlr3.Runtime.pdb
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\bin\Newtonsoft.Json.xml
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\obj\Debug\Task4Start.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\obj\Debug\Task4Start.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\obj\Debug\Task4Start.dll
+C:\Users\Tom\Documents\GitHub\CloudAndWeb\Task4Start\obj\Debug\Task4Start.pdb
