@@ -28,25 +28,19 @@ namespace Task1Start.Controllers
         {
             if (String.IsNullOrEmpty(id))
             {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest); // If an ID isn't provided in the URL, a HTTP 400 code is thrown
+                throw new HttpException(400, "Bad Request"); // If an ID isn't provided in the URL, a HTTP 400 exception is thrown
             }
 
-            var thisBu = db.BusinessUnits.SingleOrDefault(bu => bu.businessUnitCode.Equals(id, StringComparison.OrdinalIgnoreCase)); // Gets the business unit where the code equals the ID from the URL, regardless of case - equals null if not found
-            if (thisBu.Active == false || thisBu == null)
+            var thisBu = db.BusinessUnits.FirstOrDefault(bu => bu.businessUnitCode.Equals(id, StringComparison.OrdinalIgnoreCase) && bu.Active == true); // Gets the business unit where the code equals the ID from the URL, regardless of case, and isn't soft deleted - equals null if not found
+            if (thisBu == null)
             {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest); // If the business unit is soft-deleted, or doesn't exist for the given ID, a HTTP 400 code is thrown
+                throw new HttpException(404, "Not Found"); // If the business unit doesn't exist for the given ID, a HTTP 404 exception is thrown
             }
             else
             {
-
                 var viewModel = BusinessUnitDetailVM.buildViewModel(thisBu); // Passes the business unit to the view model to get an object with formatted data
                 return View(viewModel); // Passes the formatted business unit to the Razor view engine to render to the screen, using /Views/BusinessUnits/Details.cshtml
             }
-
-
-
-          
-            
         }
 
         // GET: BusinessUnits/Create
@@ -79,18 +73,16 @@ namespace Task1Start.Controllers
         {
             if (String.IsNullOrEmpty(id))
             {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest); // If an ID isn't provided in the URL, a HTTP 400 code is thrown
+                throw new HttpException(400, "Bad Request"); // If an ID isn't provided in the URL, a HTTP 400 exception is thrown
             }
 
-            var thisBu = db.BusinessUnits.SingleOrDefault(bu => bu.businessUnitCode.Equals(id, StringComparison.OrdinalIgnoreCase)); // Gets the business unit where the code equals the ID from the URL, regardless of case - equals null if not found
-
-            if (thisBu.Active == false || thisBu == null)
+            var thisBu = db.BusinessUnits.FirstOrDefault(bu => bu.businessUnitCode.Equals(id, StringComparison.OrdinalIgnoreCase) && bu.Active == true); // Gets the business unit where the code equals the ID from the URL, regardless of case, and isn't soft deleted - equals null if not found
+            if (thisBu == null)
             {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest); // If the business unit is soft-deleted, or doesn't exist for the given ID, a HTTP 400 code is thrown
+                throw new HttpException(404, "Not Found"); // If the business unit doesn't exist for the given ID, a HTTP 404 exception is thrown
             }
             else
             {
-
                 var viewModel = BusinessUnitDetailVM.buildViewModel(thisBu); // Passes the business unit to the view model to get an object with formatted data
                 return View(viewModel); // Passes the formatted business unit to the Razor view engine to render to the screen, using /Views/BusinessUnits/Edit.cshtml
             }
@@ -101,11 +93,11 @@ namespace Task1Start.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken] // Tells ASP.NET MVC that we don't want to be vulnerable to CSRF attacks!
-        public ActionResult Edit([Bind(Include = "businessUnitCode,title,description,officeAddress1,officeAddresss2,officeAddress3,officePostCode,officeContact,officePhone,officeEmail")] BusinessUnitDetailVM businessUnitVM)
+        public ActionResult Edit(string id, [Bind(Include = "businessUnitCode,title,description,officeAddress1,officeAddresss2,officeAddress3,officePostCode,officeContact,officePhone,officeEmail")] BusinessUnitDetailVM businessUnitVM)
         {
             if (ModelState.IsValid) // If validation checks pass...
             {
-                var efmodel = db.BusinessUnits.SingleOrDefault(bu => bu.businessUnitCode.Equals(businessUnitVM.businessUnitCode, StringComparison.OrdinalIgnoreCase)); // Gets the business unit where the code equals the ID from the URL, regardless of case - equals null if not found
+                var efmodel = db.BusinessUnits.FirstOrDefault(bu => bu.businessUnitCode.Equals(businessUnitVM.businessUnitCode, StringComparison.OrdinalIgnoreCase) && bu.Active == true); // Gets the business unit where the code equals the ID from the URL, regardless of case - equals null if not found
                 var model = BusinessUnitDetailVM.buildModel(businessUnitVM, efmodel); // Turns the view model into an edited version of the raw data model
                 db.Entry(model).State = EntityState.Modified; // Tells the database context that the model is being updated
                 db.SaveChanges(); // Saves changes to the database
@@ -119,17 +111,16 @@ namespace Task1Start.Controllers
         {
             if (String.IsNullOrEmpty(id))
             {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest); // If an ID isn't provided in the URL, a HTTP 400 code is thrown
+                throw new HttpException(400, "Bad Request"); // If an ID isn't provided in the URL, a HTTP 400 exception is thrown
             }
 
-            var thisBu = db.BusinessUnits.SingleOrDefault(bu => bu.businessUnitCode.Equals(id, StringComparison.OrdinalIgnoreCase)); // Gets the business unit where the code equals the ID from the URL, regardless of case - equals null if not found
-            if (thisBu.Active == false || thisBu == null)
+            var thisBu = db.BusinessUnits.FirstOrDefault(bu => bu.businessUnitCode.Equals(id, StringComparison.OrdinalIgnoreCase) && bu.Active == true); // Gets the business unit where the code equals the ID from the URL, regardless of case, and isn't soft deleted - equals null if not found
+            if (thisBu == null)
             {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest); // If the business unit is soft-deleted, or doesn't exist for the given ID, a HTTP 400 code is thrown
+                throw new HttpException(404, "Not Found"); // If the business unit doesn't exist for the given ID, a HTTP 404 exception is thrown
             }
             else
             {
-
                 var viewModel = BusinessUnitDetailVM.buildViewModel(thisBu); // Passes the business unit to the view model to get an object with formatted data
                 return View(viewModel); // Passes the formatted business unit to the Razor view engine to render to the screen, using /Views/BusinessUnits/Delete.cshtml
             }
@@ -140,10 +131,15 @@ namespace Task1Start.Controllers
         [ValidateAntiForgeryToken] // Tells ASP.NET MVC that we don't want to be vulnerable to CSRF attacks!
         public ActionResult DeleteConfirmed(string id)
         {
-            var thisBu = db.BusinessUnits.SingleOrDefault(bu => bu.businessUnitCode.Equals(id, StringComparison.OrdinalIgnoreCase)); // Gets the business unit where the code equals the ID from the URL, regardless of case - equals null if not found
-            thisBu.Active = false; // Sets the soft-delete flag to false (it'll act as if it's deleted)
-            db.Entry(thisBu).State = EntityState.Modified; // Tells the database context that the model is being updated
-            db.SaveChanges(); // Saves changes to the database
+            var thisBu = db.BusinessUnits.FirstOrDefault(bu => bu.businessUnitCode.Equals(id, StringComparison.OrdinalIgnoreCase) && bu.Active == true); // Gets the business unit where the code equals the ID from the URL, regardless of case - equals null if not found
+
+            if (thisBu.Staffs.FirstOrDefault(s => s.Active == true) == null) // If the business unit doesn't have active staff...
+            {
+                thisBu.Active = false; // Sets the soft-delete flag to false (it'll act as if it's deleted)
+                db.Entry(thisBu).State = EntityState.Modified; // Tells the database context that the model is being updated
+                db.SaveChanges(); // Saves changes to the database
+            }
+
             return RedirectToAction("Index"); // Redirects to the listing of BusinessUnits
         }
 

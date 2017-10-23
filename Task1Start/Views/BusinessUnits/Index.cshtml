@@ -30,6 +30,7 @@
             @Html.DisplayFor(modelItem => item.title)
         </td>
         <td>
+            @Html.ActionLink("View Staff", "Index", "Staffs", new { id = item.businessUnitCode }, null) |
             @Html.ActionLink("Edit", "Edit", new { id=item.businessUnitCode }) |
             @Html.ActionLink("Details", "Details", new { id=item.businessUnitCode }) |
             @Html.ActionLink("Delete", "Delete", new { id=item.businessUnitCode })

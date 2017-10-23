@@ -9,8 +9,6 @@ namespace Task1Start.Models
 {
     public class BusinessUnitDetailVM : BusinessUnitVM
     {
-    
-
 
         [Required] // Sets the field to be required during validation
         [Display(Name = "Brief Description")] // Sets the display name of the field
