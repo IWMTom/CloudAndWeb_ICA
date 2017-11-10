@@ -51,3 +51,14 @@ C:\Users\Tom\Documents\GitHub\CloudAndWeb\HebbraCoDbfModel\obj\Debug\HebbraCoDbf
 C:\Users\Tom\Documents\GitHub\CloudAndWeb\HebbraCoDbfModel\obj\Debug\HebbraCoDbfModel.csproj.CoreCompileInputs.cache
 C:\Users\Tom\Documents\GitHub\CloudAndWeb\HebbraCoDbfModel\obj\Debug\HebbraCoDbfModel.dll
 C:\Users\Tom\Documents\GitHub\CloudAndWeb\HebbraCoDbfModel\obj\Debug\HebbraCoDbfModel.pdb
+C:\Users\tom\Source\Repos\CloudAndWeb_ICA\HebbraCoDbfModel\bin\Debug\HebbraCoDbfModel.dll.config
+C:\Users\tom\Source\Repos\CloudAndWeb_ICA\HebbraCoDbfModel\bin\Debug\HebbraCoDbfModel.dll
+C:\Users\tom\Source\Repos\CloudAndWeb_ICA\HebbraCoDbfModel\bin\Debug\HebbraCoDbfModel.pdb
+C:\Users\tom\Source\Repos\CloudAndWeb_ICA\HebbraCoDbfModel\bin\Debug\EntityFramework.dll
+C:\Users\tom\Source\Repos\CloudAndWeb_ICA\HebbraCoDbfModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tom\Source\Repos\CloudAndWeb_ICA\HebbraCoDbfModel\bin\Debug\EntityFramework.xml
+C:\Users\tom\Source\Repos\CloudAndWeb_ICA\HebbraCoDbfModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tom\Source\Repos\CloudAndWeb_ICA\HebbraCoDbfModel\obj\Debug\HebbraCoDbfModel.csprojResolveAssemblyReference.cache
+C:\Users\tom\Source\Repos\CloudAndWeb_ICA\HebbraCoDbfModel\obj\Debug\HebbraCoDbfModel.csproj.CoreCompileInputs.cache
+C:\Users\tom\Source\Repos\CloudAndWeb_ICA\HebbraCoDbfModel\obj\Debug\HebbraCoDbfModel.dll
+C:\Users\tom\Source\Repos\CloudAndWeb_ICA\HebbraCoDbfModel\obj\Debug\HebbraCoDbfModel.pdb

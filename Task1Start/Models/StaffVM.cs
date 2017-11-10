@@ -25,7 +25,7 @@ namespace Task1Start.Models
                         new Models.StaffVM()
                         {
                             staffCode = s.staffCode.Trim(),
-                            fullName = s.firstName + " " + s.middleName[0] + " " + s.lastName,
+                            fullName = s.firstName + " " + (s.middleName == null ? "" : (s.middleName[0] + " ")) + s.lastName,
                             businessUnitCode = s.BusinessUnit.businessUnitCode
                         }).AsEnumerable();
 
