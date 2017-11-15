@@ -6,6 +6,10 @@ using HebbraCoDbfModel;
 
 namespace Task2Start.Models
 {
+    /*
+     * The Data Transfer Object shapes data similarly to a view model from Task 1.
+     */
+
     public class BusinessUnitDTO
     {
         public string businessUnitCode { get; set; }
