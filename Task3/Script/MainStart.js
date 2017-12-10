@@ -1,5 +1,5 @@
 ﻿var http = new XMLHttpRequest(); // Used to request data from a web server
-var coreUrl = "http://task2final.azurewebsites.net/api/";
+var coreUrl = "http://localhost:65026/api/";
 var buUrl = coreUrl + "BusinessUnit";
 var staffListUrl = coreUrl + "Staff/BusinessUnit/";
 var staffDetailUrl = coreUrl+ "Staff/";

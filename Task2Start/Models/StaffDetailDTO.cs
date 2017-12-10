@@ -11,7 +11,12 @@ namespace Task2Start.Models
 
         public string firstName { get; set; }
 
-        public string middleName { get; set; }
+        private string _middleName;
+        public string middleName
+        {
+            get { return this._middleName ?? ""; } // If middle name is null, treat as an empty string instead of null
+            set { this._middleName = value; }
+        }
 
         public string lastName { get; set; }
 
@@ -19,7 +24,11 @@ namespace Task2Start.Models
 
         public string startDate { get; set; }
 
-        public string profile { get; set; }
+        private string _profile;
+        public string profile {
+            get { return this._profile ?? ""; } // If profile is null, treat as an empty string instead of null
+            set { this._profile = value; }
+        }
 
         public string emailAddress { get; set; }
 
@@ -36,8 +45,8 @@ namespace Task2Start.Models
                 firstName = s.firstName,
                 middleName = s.middleName,
                 lastName = s.lastName,
-                dob = s.dob.ToString(),
-                startDate = s.startDate.ToString(),
+                dob = s.dob.ToString("dd-MM-yyyy"),
+                startDate = s.startDate.ToString("dd-MM-yyyy"),
                 profile = s.profile,
                 emailAddress = s.emailAddress,
             };
@@ -54,8 +63,8 @@ namespace Task2Start.Models
                            firstName = s.firstName,
                            middleName = s.middleName,
                            lastName = s.lastName,
-                           dob = s.dob.ToString(),
-                           startDate = s.startDate.ToString(),
+                           dob = s.dob.ToString("dd-MM-yyyy"),
+                           startDate = s.startDate.ToString("dd-MM-yyyy"),
                            profile = s.profile,
                            emailAddress = s.emailAddress,
                        }).AsEnumerable();
