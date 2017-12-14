@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3a1522c1-309b-4637-b4e8-54980d9af238" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://wcfservicewebrole120170902073256.azurewebsites.net/SkillService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SkillService.disco" MetadataType="Disco" ID="d073f000-2a00-4ab5-8bfc-14d05774af94" SourceId="1" SourceUrl="http://wcfservicewebrole120170902073256.azurewebsites.net/SkillService.svc?disco" />
+    <MetadataFile FileName="SkillService.xsd" MetadataType="Schema" ID="40ab705d-43dc-4e83-b97c-00c6ab267f27" SourceId="1" SourceUrl="http://wcfservicewebrole120170902073256.azurewebsites.net/SkillService.svc?xsd=xsd1" />
+    <MetadataFile FileName="SkillService.wsdl" MetadataType="Wsdl" ID="f77a1513-5874-455e-b77d-b238eb04b24f" SourceId="1" SourceUrl="http://wcfservicewebrole120170902073256.azurewebsites.net/SkillService.svc?wsdl" />
+    <MetadataFile FileName="SkillService1.xsd" MetadataType="Schema" ID="b25e5306-6080-4b77-a668-0d5d344ffaf2" SourceId="1" SourceUrl="http://wcfservicewebrole120170902073256.azurewebsites.net/SkillService.svc?xsd=xsd2" />
+    <MetadataFile FileName="SkillService2.xsd" MetadataType="Schema" ID="0101f80b-5173-43aa-ade2-1203b1e42dc6" SourceId="1" SourceUrl="http://wcfservicewebrole120170902073256.azurewebsites.net/SkillService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

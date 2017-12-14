@@ -1,0 +1,11 @@
+C:\Users\tom\Documents\GitHub\CloudAndWeb_ICA\StaffSkillsDbfModel\bin\Debug\StaffSkillsDbfModel.dll.config
+C:\Users\tom\Documents\GitHub\CloudAndWeb_ICA\StaffSkillsDbfModel\bin\Debug\StaffSkillsDbfModel.dll
+C:\Users\tom\Documents\GitHub\CloudAndWeb_ICA\StaffSkillsDbfModel\bin\Debug\StaffSkillsDbfModel.pdb
+C:\Users\tom\Documents\GitHub\CloudAndWeb_ICA\StaffSkillsDbfModel\bin\Debug\EntityFramework.dll
+C:\Users\tom\Documents\GitHub\CloudAndWeb_ICA\StaffSkillsDbfModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tom\Documents\GitHub\CloudAndWeb_ICA\StaffSkillsDbfModel\bin\Debug\EntityFramework.xml
+C:\Users\tom\Documents\GitHub\CloudAndWeb_ICA\StaffSkillsDbfModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tom\Documents\GitHub\CloudAndWeb_ICA\StaffSkillsDbfModel\obj\Debug\StaffSkillsDbfModel.csproj.CoreCompileInputs.cache
+C:\Users\tom\Documents\GitHub\CloudAndWeb_ICA\StaffSkillsDbfModel\obj\Debug\StaffSkillsDbfModel.dll
+C:\Users\tom\Documents\GitHub\CloudAndWeb_ICA\StaffSkillsDbfModel\obj\Debug\StaffSkillsDbfModel.pdb
+C:\Users\tom\Documents\GitHub\CloudAndWeb_ICA\StaffSkillsDbfModel\obj\Debug\StaffSkillsDbfModel.csprojResolveAssemblyReference.cache
