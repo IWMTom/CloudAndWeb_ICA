@@ -63,17 +63,25 @@ namespace Task1Start.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "businessUnitId,staffCode,firstName,middleName,lastName,dob,startDate,profile,emailAddress")] Task1Start.Models.StaffDetailVM staffVM)
         {
+            ViewBag.businessUnitId = new SelectList(db.BusinessUnits.Where(b => b.Active == true), "businessUnitId", "businessUnitCode"); // Returns a list of business codes that are active
+
             if (ModelState.IsValid) // If validation checks pass...
             {
-                var model = StaffDetailVM.buildModel(staffVM); // Passes the view model data and gets back a BusinessUnit model
-                model.Active = true; // Sets the active flag to true (it's not been soft deleted!)
-                db.Staffs.Add(model); // Inserts the data to the database as a new row
-                db.SaveChanges(); // Saves the changes to the database
-                return RedirectToAction("Index"); // Redirects to the BusinessUnits list
+                if (db.Staffs.Count(s => s.staffCode.Equals(staffVM.staffCode, StringComparison.OrdinalIgnoreCase) && s.Active == true) > 0)
+                {
+                    ViewBag.Message = "The staff code is already in use!";
+                    return View(staffVM);
+                }
+                else
+                {
+                    var model = StaffDetailVM.buildModel(staffVM); // Passes the view model data and gets back a Staff model
+                    model.Active = true; // Sets the active flag to true (it's not been soft deleted!)
+                    db.Staffs.Add(model); // Inserts the data to the database as a new row
+                    db.SaveChanges(); // Saves the changes to the database
+                    return RedirectToAction("Index"); // Redirects to the Staff list
+                }
             }
 
-            
-            ViewBag.businessUnitId = new SelectList(db.BusinessUnits.Where(b => b.Active == true), "businessUnitId", "businessUnitCode"); // Returns a list of business codes that are active
             return View(staffVM); // Returns back to the creation form with the errors from validation
         }
 

@@ -58,11 +58,19 @@ namespace Task1Start.Controllers
         {
             if (ModelState.IsValid) // If validation checks pass...
             {
-                var model = BusinessUnitDetailVM.buildModel(businessUnitVM); // Passes the view model data and gets back a BusinessUnit model
-                model.Active = true; // Sets the active flag to true (it's not been soft deleted!)
-                db.BusinessUnits.Add(model); // Inserts the data to the database as a new row
-                db.SaveChanges(); // Saves the changes to the database
-                return RedirectToAction("Index"); // Redirects to the BusinessUnits list
+                if (db.BusinessUnits.Count(bu => bu.businessUnitCode.Equals(businessUnitVM.businessUnitCode, StringComparison.OrdinalIgnoreCase) && bu.Active == true) > 0)
+                {
+                    ViewBag.Message = "The business unit code is already in use!";
+                    return View(businessUnitVM);
+                }
+                else
+                {
+                    var model = BusinessUnitDetailVM.buildModel(businessUnitVM); // Passes the view model data and gets back a BusinessUnit model
+                    model.Active = true; // Sets the active flag to true (it's not been soft deleted!)
+                    db.BusinessUnits.Add(model); // Inserts the data to the database as a new row
+                    db.SaveChanges(); // Saves the changes to the database
+                    return RedirectToAction("Index"); // Redirects to the BusinessUnits list
+                }
             }
 
             return View(businessUnitVM); // Returns back to the creation form with the errors from validation
